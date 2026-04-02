@@ -2,4 +2,3 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bzgoering&theme=radical)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bzgoering&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bzgoering&theme=radical)
