@@ -1,1 +1,7 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bzgoering&show_icons=true&theme=radical&cache_seconds=86400)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bzgoering&theme=radical)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bzgoering&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bzgoering&theme=radical)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bzgoering&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bzgoering&theme=radical)
