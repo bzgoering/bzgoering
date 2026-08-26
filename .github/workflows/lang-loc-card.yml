@@ -21,11 +21,12 @@ jobs:
           python-version: "3.12"
 
       - name: Install tokei
-        run: |
-          curl -sL https://github.com/XAMPPRocky/tokei/releases/latest/download/tokei-x86_64-unknown-linux-gnu.tar.gz -o tokei.tar.gz
-          tar -xzf tokei.tar.gz
-          sudo mv tokei /usr/local/bin/tokei
-          tokei --version
+        uses: taiki-e/install-action@v2
+        with:
+          tool: tokei
+
+      - name: Verify tokei
+        run: tokei --version
 
       - name: Install python deps
         run: pip install requests
