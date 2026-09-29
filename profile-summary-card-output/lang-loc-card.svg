@@ -4,23 +4,23 @@
   
         <text x="20" y="74" fill="#a9fef7" font-size="12" font-family="'Segoe UI', Ubuntu, sans-serif">Java</text>
         <rect x="20" y="78" width="270" height="6" rx="3" fill="#2b2b3d"/>
-        <rect x="20" y="78" width="154.7" height="6" rx="3" fill="#fe428e"/>
-        <text x="380" y="74" fill="#a9fef7" font-size="12" text-anchor="end" font-family="'Segoe UI', Ubuntu, sans-serif">57.3%</text>
+        <rect x="20" y="78" width="154.6" height="6" rx="3" fill="#fe428e"/>
+        <text x="380" y="74" fill="#a9fef7" font-size="12" text-anchor="end" font-family="'Segoe UI', Ubuntu, sans-serif">57.2%</text>
         
         <text x="20" y="104" fill="#a9fef7" font-size="12" font-family="'Segoe UI', Ubuntu, sans-serif">JavaScript</text>
         <rect x="20" y="108" width="270" height="6" rx="3" fill="#2b2b3d"/>
-        <rect x="20" y="108" width="44.8" height="6" rx="3" fill="#a9fef7"/>
+        <rect x="20" y="108" width="44.7" height="6" rx="3" fill="#a9fef7"/>
         <text x="380" y="104" fill="#a9fef7" font-size="12" text-anchor="end" font-family="'Segoe UI', Ubuntu, sans-serif">16.6%</text>
         
         <text x="20" y="134" fill="#a9fef7" font-size="12" font-family="'Segoe UI', Ubuntu, sans-serif">Python</text>
         <rect x="20" y="138" width="270" height="6" rx="3" fill="#2b2b3d"/>
-        <rect x="20" y="138" width="35.7" height="6" rx="3" fill="#f8d847"/>
-        <text x="380" y="134" fill="#a9fef7" font-size="12" text-anchor="end" font-family="'Segoe UI', Ubuntu, sans-serif">13.2%</text>
+        <rect x="20" y="138" width="35.9" height="6" rx="3" fill="#f8d847"/>
+        <text x="380" y="134" fill="#a9fef7" font-size="12" text-anchor="end" font-family="'Segoe UI', Ubuntu, sans-serif">13.3%</text>
         
         <text x="20" y="164" fill="#a9fef7" font-size="12" font-family="'Segoe UI', Ubuntu, sans-serif">C++</text>
         <rect x="20" y="168" width="270" height="6" rx="3" fill="#2b2b3d"/>
         <rect x="20" y="168" width="10.7" height="6" rx="3" fill="#00d4ff"/>
-        <text x="380" y="164" fill="#a9fef7" font-size="12" text-anchor="end" font-family="'Segoe UI', Ubuntu, sans-serif">4.0%</text>
+        <text x="380" y="164" fill="#a9fef7" font-size="12" text-anchor="end" font-family="'Segoe UI', Ubuntu, sans-serif">3.9%</text>
         
         <text x="20" y="194" fill="#a9fef7" font-size="12" font-family="'Segoe UI', Ubuntu, sans-serif">Rust</text>
         <rect x="20" y="198" width="270" height="6" rx="3" fill="#2b2b3d"/>
